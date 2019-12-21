@@ -1,0 +1,10 @@
+Qulays API URL :
+Qualys US Platform 
+1 https://qualysapi.qualys.comQualys US Platform 
+2 https://qualysapi.qg2.apps.qualys.comQualys US Platform 
+3 https://qualysapi.qg3.apps.qualys.comQualys EU Platform 
+1 https://qualysapi.qualys.euQualys EU Platform 
+2 https://qualysapi.qg2.apps.qualys.euQualys 
+India Platform 1 https://qualysapi.qg1.apps.qualys.inQualys 
+Private Cloud Platform https://qualysapi.<customer_base_url>
+

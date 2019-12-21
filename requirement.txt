@@ -1,0 +1,15 @@
+Below are the requirements to use Qualys Automation Engineering Toolkit
+
+1. Python 2.x
+2. Python Libraries : sys, re, time, os, getpass, termcolor, string, argparse, csv
+--> You can use below commands to import these libaraies if any of the library is missing :
+
+pip install sys
+pip install re
+pip install time
+pip install os
+pip install getpass
+pip install termcolor
+pip install string
+pip install argparse
+pip install csv
